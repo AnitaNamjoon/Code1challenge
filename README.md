@@ -8,6 +8,6 @@ Claire Anita Chepkemoi Ngetich
 # License
 The student grade calculator is lincensed under MIT License.
 # Contact
-FOr any questions or feedback , please feel free to contact me.
+For any questions or feedback , please feel free to contact me.
 (anitachepkemoi1@gmail.com)
 
